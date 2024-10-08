@@ -1,19 +1,11 @@
-# Ignore dataset files
-data/
-pipeline/data/
-
-# Ignore model checkpoints
-checkpoints/
+# Ignore checkpoints
 pipeline/checkpoints/
 
+# Ignore data
+pipeline/data/
+
+# Ignore logs
+pipeline/logs/
+
 # Ignore Python cache files
-__pycache__/
-*.py[cod]
-*.so
-
-# Ignore Jupyter Notebook checkpoints
-.ipynb_checkpoints/
-
-# Ignore temporary files
-*.tmp
-*.log
+pipeline/__pycache__/
