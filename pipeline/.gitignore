@@ -1,10 +1,10 @@
 # Ignore dataset files
 data/
-
+pipeline/data/
 
 # Ignore model checkpoints
 checkpoints/
-
+pipeline/checkpoints/
 
 # Ignore Python cache files
 __pycache__/
