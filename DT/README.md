@@ -1,6 +1,8 @@
 # Decision Transformer
 
 This folder is for model construction.
+10.10 from Huijing
+It is ready for enviroment set in DT/decision-transformer/gym/ENV-SET-huijing.  
 
 ## Model Size
 
